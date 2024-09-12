@@ -1,0 +1,4 @@
+com\mycompany\musicafavorita\DatabaseConnection.class
+com\mycompany\musicafavorita\MusicaDAO.class
+com\mycompany\musicafavorita\MusicaFavorita.class
+com\mycompany\musicafavorita\Musica.class
